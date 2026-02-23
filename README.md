@@ -274,7 +274,7 @@ Contributions are welcome! Here's how you can help:
 
 - None at the moment! 🎉
 
-If you find a bug, please [open an issue](https://github.com/YOUR_USERNAME/SubLoop/issues).
+If you find a bug, please [open an issue](https://github.com/okumusefe/SubLoop/issues).
 
 ---
 
